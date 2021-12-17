@@ -1,0 +1,10 @@
+3. The fucntion findcontactindex makes it easy to determine the slots of the array
+and how many people are in the array so that if there was a contact removed you would
+be able to add a person in, or if there was a slot open you would be able to add another 
+contact into the array, the getTenDigitPhone would be used to identify each contact 
+by their phone numbers and whenever you needed to find a contact or make changes to one 
+you could enter the phone number of that contact to identify the contact you wanted to 
+make changes to.
+4.I learned how to declear functions correctly and code them to do things that i would 
+need my code to do and then call the functions in my code approprialy when i need them 
+to save from redundant coding and from make extra complicated code that doesnt need to be like that.
