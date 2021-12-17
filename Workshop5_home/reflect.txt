@@ -1,0 +1,7 @@
+1.The advantages of using an array of structs vs parallel array is that only one rray index
+calculation is needed and having all the related data together makes it work better with the 
+cpu memory, also when using an array of structs it gives the advantage of only having to add in 
+one array not multiple so it is easier to implement into your code.
+2.This is because when we use a header file the code in the header file is duplicated inside each c file
+in which it was included, which allows us to write code, like a struct, in one spot and edit it in that one spot
+alone.
