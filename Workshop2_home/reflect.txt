@@ -1,0 +1,6 @@
+The most important thing i learned in Workshop 2 is the importance of identifying data types and asigning variables with different data types to these variable to complete computations.
+i also learned how to use modulus to find the remainder while working on computations. The reason we must add 0.005 to the value derived from calculating the GST because without that 
+the value of the GST would be 1.1284 and will need to be rounded to 1.13 but the number will be truncated to 1.12 on matrix, by adding the .005 and making the value 1.13 when putting the value into
+Matrix the this will not take place when we eventually have to multiply the value by 100 and cast it which we must do. Casting it to take one data type and change it for the line of code that it is apart
+of so in the case of this workshop it takes the data type of int and changes it to a float when trying to compute modulus.
+the reason why modulus was used is because it is more efficient then using regualar code which can look messy whereas when using modulus it cleans it up to look much simplar. 

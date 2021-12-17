@@ -1,0 +1,7 @@
+1) The array for the workshop was declared to hold up to 10 elements because there are 10 total days that we can get the temperatures for 
+up to that much days based on the value we enter on the scanf in the first prompt that is in the lines of code.
+2)advantages of using matching arrays are that they can be used to show data that is of the same typing all at once that can be used to compare
+information, while disadvantages of using arrays are that we have to know in advance how many elements are gonna be stored in the array and since an
+array is a static structure its unable to be fixed and cannot be increased or reduced.
+3)i would say that the home part for this workshop was had because im not really experienced in coding in general so going from struggling to just create
+the array in the lab to adding the other aspects that we have done in other labs it was a bit of a challenge. 
