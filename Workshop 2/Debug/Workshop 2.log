@@ -1,0 +1,4 @@
+﻿  cashRegister.c
+c:\users\devin\source\repos\c programming\workshop 2\workshop 2\cashregister.c(19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\devin\source\repos\c programming\workshop 2\workshop 2\cashregister.c(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Workshop 2.vcxproj -> C:\Users\devin\source\repos\C Programming\Workshop 2\Debug\Workshop 2.exe
