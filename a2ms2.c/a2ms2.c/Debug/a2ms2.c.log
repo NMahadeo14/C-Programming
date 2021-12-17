@@ -1,0 +1,16 @@
+﻿  a2ms2.c
+  contactHelpers.c
+  contacts.c
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(33,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(47,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(52,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(65,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(70,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(73,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(81,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(89,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\devin\source\repos\C Programming\a2ms2.c\a2ms2.c\contacts.c(98,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  a2ms2.c.vcxproj -> C:\Users\devin\source\repos\C Programming\a2ms2.c\Debug\a2ms2.c.exe

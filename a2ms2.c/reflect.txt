@@ -1,0 +1,9 @@
+1.The Term Fucntion means a relationship or expression involving one or more variables that work
+or operate in a proper or particular way, functions are used in programming to prevent 
+redundent coding, so for example where ever you have a line of code that you are gonna keep using 
+over and over, you can make a function that does that and call the function whenever u need 
+to write that line of code which is shorter and more conveinent.
+2. the helper functions were in a different module because they werent really impacting the contact file
+they were their own fucntions that are gonna display and sort information that the contact file is 
+taking in, and they are only being used in the contact.c file to be called on to stop repetitive coding
+not to change the c file completely.
